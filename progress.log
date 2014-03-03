@@ -6,3 +6,15 @@
 [2014-03-03 11:32:47] EDIT py2manager/controllers/default.py: 4
 [2014-03-03 11:33:53] CREATE company.html: 0
 [2014-03-03 11:35:24] EDIT py2manager/views/company.html: 19
+[2014-03-03 11:41:43] EDIT py2manager/controllers/default.py: -1
+[2014-03-03 11:43:25] EDIT py2manager/views/default/index.html: -9
+[2014-03-03 12:03:01] EDIT py2manager/models/db_tasks.py: 4
+[2014-03-03 12:06:18] EDIT py2manager/views/web2py_ajax.html: 0
+[2014-03-03 12:10:45] EDIT py2manager/controllers/default.py: 2
+[2014-03-03 12:12:24] EDIT py2manager/controllers/default.py: 0
+[2014-03-03 13:35:08] EDIT py2manager/controllers/default.py: 2
+[2014-03-03 13:36:36] EDIT py2manager/views/company.html: 1
+[2014-03-03 13:40:01] EDIT py2manager/controllers/default.py: 6
+[2014-03-03 13:40:26] CREATE employee.html: 0
+[2014-03-03 13:41:00] EDIT py2manager/views/employee.html: 1
+[2014-03-03 13:45:47] EDIT py2manager/controllers/default.py: -2
