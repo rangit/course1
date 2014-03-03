@@ -11,12 +11,10 @@
 
 @auth.requires_login()
 def index():
-    project_form = SQLFORM(db.project).process()
     projects = db(db.project).select()
     users = db(db.auth_user).select()
     companies = db(db.company).select()
     return locals()
-
 
 def user():
     """

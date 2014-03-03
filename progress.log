@@ -3,3 +3,6 @@
 [2014-03-03 11:12:43] EDIT py2manager/controllers/default.py: -1
 [2014-03-03 11:13:09] CREATE add.html: 0
 [2014-03-03 11:22:35] EDIT py2manager/views/add.html: 23
+[2014-03-03 11:32:47] EDIT py2manager/controllers/default.py: 4
+[2014-03-03 11:33:53] CREATE company.html: 0
+[2014-03-03 11:35:24] EDIT py2manager/views/company.html: 19
