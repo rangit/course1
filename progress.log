@@ -32,3 +32,5 @@
 [2014-03-03 14:28:58] CREATE default/note.html: 0
 [2014-03-03 14:30:23] EDIT py2manager/views/default/note.html: 9
 [2014-03-03 16:11:03] EDIT py2manager/controllers/default.py: 0
+[2014-03-03 16:30:14] CREATE error.html: 0
+[2014-03-03 16:30:56] EDIT py2manager/views/error.html: -1
